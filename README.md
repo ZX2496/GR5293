@@ -1,2 +1,3 @@
-# GR5293
-GR5293 Final Project
+# GR5293 Final Project
+
+Please follow Tutorial.pdf for a proper setup
